@@ -1,0 +1,1 @@
+We can not use the normal distribution as an approximation to solve this binomial problem because Either n*p<5 or n*q<5

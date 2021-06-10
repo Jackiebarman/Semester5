@@ -1,0 +1,15 @@
+
+Probability of an event that date is stamped by inspectors is:
+P(A) :0.3
+P(B) :0.4
+P(C) :0.3
+
+Probability of a person fails to stamp the expire date in A packets is :
+P(S'/A):0.00813008
+P(S'/B):0.00813008
+P(S'/C):0.00311526
+
+Total Probability of event that date is not stamped is:0.00662564
+Probability that it was inspected by A :0.368119
+
+............................................................................

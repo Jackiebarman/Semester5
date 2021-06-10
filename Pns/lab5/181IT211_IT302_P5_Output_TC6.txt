@@ -1,0 +1,6 @@
+
+f({i}): 0.5
+f({i}): 0.9
+Expected value of g(X, Y) = X2+Y2 for f{g}: 91.60000000000001
+μX : 9.8
+μY : 5.0

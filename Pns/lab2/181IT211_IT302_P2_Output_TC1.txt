@@ -1,0 +1,16 @@
+
+Enter the number of inspectors: 4
+
+Enter the names of inspectors: 
+John
+Tom
+Jeff
+Pat
+
+Enter the % of packages stamped by the inspectors: 
+John : 10
+Tom : 30
+Jeff : 10
+Pat : 40
+
+Invaid input

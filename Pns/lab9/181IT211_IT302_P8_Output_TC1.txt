@@ -1,0 +1,7 @@
+
+Intermediate Results:
+MEAN:1
+VARIANCE:0.9
+STANDARD DEVIATION:0.948683
+
+FINAL OUTPUT[h(d;a;b;c)]:6.95302e-310

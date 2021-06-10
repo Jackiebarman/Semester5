@@ -1,0 +1,2 @@
+
+Probability that it was inspected by A is:0.246006

@@ -1,0 +1,27 @@
+Enter the number of inspectors: 2
+
+Enter the names of inspectors: 
+Orange
+Apple
+
+Enter the % of packages stamped by the inspectors: 
+Orange : 25
+Apple : 75
+
+Enter the maximum number of packages to be stamped that results in failing to stamp one : 
+Orange:250
+Apple:350
+
+Probability of an event that date is stamped by inspectors is:
+P(Orange) :0.25
+P(Apple) :0.75
+
+Probability of a person fails to stamp the expire date in A packets is :
+P(S'/Orange):0.004
+P(S'/Apple):0.00285714
+
+Total Probability of event that date is not stamped is:0.00314286
+
+Enter the name whose probability to inspect is to be found: Apple
+
+Probability that it was inspected by Apple is:0.681818
